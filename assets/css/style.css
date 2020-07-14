@@ -10,8 +10,7 @@ header .active {
 
  
 .footer-div1 {
-    padding-top: 10% ;
-    padding-bottom: 10%;
+    padding-top: 5% ;
     background: #24116A;
     transform: skewY(-5deg) translateY(100px);
     min-height: 10vh;
@@ -34,7 +33,7 @@ footer .f-btn {
 
 .footer-div2 {
     background: #24116A;
-    min-height: 15vh;
+    min-height: 20vh;
 }
 
 @media screen and (min-width: 1500px) {
