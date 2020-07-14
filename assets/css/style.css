@@ -9,12 +9,14 @@ header .active {
 }
 
 footer {
-    background: url(/assets/images/img4.png);
+  
 }
 
 footer .f-p {
     padding-top: 20% ;
     padding-bottom: 10% ;
+    background: url(/assets/images/img4.png) no-repeat;
+    width: 100%;
 }
 
 footer button {
