@@ -29,7 +29,7 @@ footer .f-btn {
     background-color: #00AEFF;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
 
     footer {
         background: #24116A !important;
